@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,ad-brix.com
 DOMAIN-SUFFIX,aac-dmp.cn
 DOMAIN-SUFFIX,adsame.com
 DOMAIN-SUFFIX,appcoachs.net
+DOMAIN-SUFFIX,adsmarket.com
 DOMAIN,afp.alicdn.com
 DOMAIN,amdc.m.taobao.com
 DOMAIN-SUFFIX,adhouyi.com
@@ -53,9 +54,13 @@ DOMAIN,adcdn.hatena.ne.jp
 DOMAIN,adm.10jqka.com.cn
 DOMAIN,adcdn.goo.ne.jp
 DOMAIN-SUFFIX,ad-mapps.com
+DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,apppv.zol.com.cn
+DOMAIN-SUFFIX,appcoachs.com
 DOMAIN-SUFFIX,aiwuqi.com.cn
+DOMAIN-SUFFIX,adingo.jp
+DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,admx.baixing.com
 DOMAIN-SUFFIX,adspod.cn
 DOMAIN-SUFFIX,akamaiedge.net
@@ -219,6 +224,7 @@ DOMAIN-SUFFIX,c.ns8d.com
 DOMAIN-SUFFIX,csbew.com
 DOMAIN-SUFFIX,c0563.com
 DOMAIN-SUFFIX,cdnads.com
+DOMAIN-SUFFIX,cloud-cube.net
 DOMAIN,c.l.qq.com
 DOMAIN-SUFFIX,cre.dp.sina.cn
 DOMAIN-SUFFIX,capp.simsimi.com
@@ -327,6 +333,8 @@ DOMAIN-SUFFIX,ggfeng.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN,gma.alicdn.com
 DOMAIN-SUFFIX,goyoo.com.cn
+DOMAIN,gad.netease.com
+DOMAIN-SUFFIX,gentags.net
 DOMAIN,g.tbcdn.cn
 DOMAIN-SUFFIX,goyoogroup.cn
 DOMAIN,gorgon.youdao.com
@@ -348,7 +356,6 @@ DOMAIN-SUFFIX,hzkcbs.com
 DOMAIN-SUFFIX,hxadt.com
 DOMAIN-SUFFIX,haiyunx.com
 DOMAIN-SUFFIX,hxsame.hexun.com
-DOMAIN-SUFFIX,hudong.pl.youku.com
 DOMAIN,hm.baidu.com.cn
 DOMAIN-SUFFIX,hwcdn.net
 DOMAIN,hmma.baidu.com
@@ -380,6 +387,7 @@ DOMAIN,iis3g.deliver.ifeng.com
 DOMAIN-SUFFIX,i8app.cn
 DOMAIN-SUFFIX,idougou.cn
 DOMAIN-SUFFIX,idougou.com
+DOMAIN,iyes.youku.com
 DOMAIN,ipengtai.huanqiu.com
 DOMAIN-SUFFIX,idougou.com.cn
 DOMAIN-SUFFIX,i8.com.cn
@@ -437,6 +445,7 @@ DOMAIN-SUFFIX,log.mix.sina.com.cn
 DOMAIN-SUFFIX,lstat.youku.com
 DOMAIN-SUFFIX,linkpage.cn
 DOMAIN-SUFFIX,l.youku.com
+DOMAIN-SUFFIX,lnk8z.com
 DOMAIN,logger.qingting.fm
 DOMAIN,log.stat.kugou.com
 DOMAIN,log.kuwo.cn
@@ -453,6 +462,7 @@ DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN-SUFFIX,localytics.com
 DOMAIN,livew.l.qq.com
 DOMAIN-SUFFIX,lnk0.com
+DOMAIN-SUFFIX,lenzmx.com
 DOMAIN-SUFFIX,latrobe.edu.au
 DOMAIN-SUFFIX,log.da.hunantv.com
 DOMAIN-SUFFIX,log.v2.hunantv.com
@@ -461,7 +471,6 @@ DOMAIN-SUFFIX,map.dxpmedia.com
 DOMAIN-SUFFIX,market.xiaomi.com
 DOMAIN-SUFFIX,mct01.com
 DOMAIN-SUFFIX,mega.mlt01.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,my5525.net
 DOMAIN-SUFFIX,media.tianjimedia.com
 DOMAIN-SUFFIX,media.yesky.com
@@ -476,6 +485,7 @@ DOMAIN-SUFFIX,mobpro.cn
 DOMAIN-SUFFIX,mmate.jp
 DOMAIN-SUFFIX,mobaders.com
 DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,measurementapi.com
 DOMAIN,manager.channel.aliyun.com
 DOMAIN,mcgi.v.qq.com
 DOMAIN,mvads.kugou.com
@@ -549,9 +559,11 @@ DOMAIN-SUFFIX,pcookie.mlt01.com
 DOMAIN-SUFFIX,profile.ams50.cloudfront.net
 DOMAIN-SUFFIX,quote.tool.hexun.com
 DOMAIN-SUFFIX,qf.56.com
+DOMAIN-SUFFIX,quw18.com
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qqabcd8899.cn
 DOMAIN-SUFFIX,qtmojo.com
+DOMAIN-SUFFIX,qmqj2.xy.com
 DOMAIN-SUFFIX,qos.117go.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,rtax.criteo.com
@@ -707,6 +719,7 @@ DOMAIN-SUFFIX,youth.cn
 DOMAIN-SUFFIX,yyu175.pw
 DOMAIN-SUFFIX,youxiaoad.com
 DOMAIN-SUFFIX,yhdichan.com
+DOMAIN-SUFFIX,yumimobi.com
 DOMAIN-SUFFIX,yoyi.com.cn
 DOMAIN-SUFFIX,ychun03.com
 DOMAIN-SUFFIX,ymrej.com
